@@ -1,0 +1,22 @@
+{
+  "general": {
+    "debug": false,
+    "cache": true
+  },
+  "server": {
+    "dns": "1.1.1.1",
+    "port": 53,
+    "protocol": "udp"
+  },
+  "custom": [
+    {
+      "lavadns.local": "172.67.220.212"
+    },
+    {
+      "i-like.beer": "172.67.220.212"
+    }
+  ],
+  "blacklist": {
+    "enabled": true
+  }
+}
