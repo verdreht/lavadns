@@ -2,7 +2,12 @@
   "name": "lavadns",
   "version": "1.0.0",
   "dependencies": {
+    "body-parser": "^1.20.0",
     "dns2": "^2.0.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "node-persist": "^3.1.0",
     "var_dump": "^1.0.5",
     "winston": "^3.7.2"
   }

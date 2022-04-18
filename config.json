@@ -1,6 +1,6 @@
 {
   "general": {
-    "debug": false,
+    "debug": true,
     "cache": true
   },
   "server": {
